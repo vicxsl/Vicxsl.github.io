@@ -25,6 +25,7 @@ stages:                                     # 构建阶段配置
               npm -v
               npm install
               npm run dist
-              npm run config url $GIT_TOKEN
+              printf "开始构建和push\n"
+              npm run config GITHUB_TOKEN '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'
               npm run clean
               npm run deploy
