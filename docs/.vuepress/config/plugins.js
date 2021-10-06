@@ -33,7 +33,7 @@ module.exports = [
                 },
                 {
                     title: '通过百度搜索本站的',
-                    frontUrl: 'https://www.baidu.com/s?wd=site%3Axugaoyi.com%20',
+                    frontUrl: 'https://www.baidu.com/s?wd=site%3Avicxsl.github.io%20',
                 },
             ],
         },
@@ -75,7 +75,7 @@ module.exports = [
     [
         'vuepress-plugin-baidu-tongji', // 百度统计
         {
-            hm: '503f098e7e5b3a5b5d8c5fc2938af002',
+            hm: 'f576dbefdaf5183e844343385cfa074e',
         },
     ],
     [
@@ -111,7 +111,7 @@ module.exports = [
         'vuepress-plugin-mindmap', // mindmap插件
         {},
     ],
-    ['meting',
+    ['meting',// meting插件
         {
             meting: {
                 server: "netease",
