@@ -108,8 +108,7 @@ module.exports = [
         },
     ],
     [
-        'vuepress-plugin-mindmap', // mindmap插件
-        {},
+        'vuepress-plugin-markmap',{}
     ],
     ['meting',// meting插件
         {
