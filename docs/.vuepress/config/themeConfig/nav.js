@@ -48,7 +48,9 @@ module.exports = [
             {text: 'Python', link: '/pages/f22439/'},
             {
                 text: '学习笔记', items: [
-                    {text: '《一个人工智能的诞生》笔记', link: '/note/ai/'}]
+                    {text: 'Java面试宝典', link: '/note/interview/'},
+                    {text: '《一个人工智能的诞生》笔记', link: '/note/ai/'}
+                ]
             }
         ],
     },
