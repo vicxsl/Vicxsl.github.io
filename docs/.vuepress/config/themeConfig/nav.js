@@ -83,6 +83,8 @@ module.exports = [
         items: [
             {text: '大数据', link: '/mind/800e44/'},
             {text: '微服务', link: '/mind/3cc0a2/'},
+            {text: 'Java进阶', link: '/mind/7af745/'},
+            {text: 'Spring', link: '/mind/494cc9/'},
         ],
     },
     {text: '关于', link: '/about/'},
