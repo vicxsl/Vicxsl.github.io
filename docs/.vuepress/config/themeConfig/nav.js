@@ -48,7 +48,9 @@ module.exports = [
             {text: 'Python', link: '/pages/f22439/'},
             {
                 text: '学习笔记', items: [
-                    {text: '《一个人工智能的诞生》笔记', link: '/note/ai/'}]
+                    {text: 'Java面试宝典', link: '/note/interview/'},
+                    {text: '《一个人工智能的诞生》笔记', link: '/note/ai/'}
+                ]
             }
         ],
     },
@@ -81,6 +83,7 @@ module.exports = [
         items: [
             {text: '大数据', link: '/mind/800e44/'},
             {text: '微服务', link: '/mind/3cc0a2/'},
+            {text: 'Java面试', link: '/mind/7af745/'},
         ],
     },
     {text: '关于', link: '/about/'},
@@ -91,6 +94,7 @@ module.exports = [
             {text: '网站', link: '/pages/beb6c0bd8a66cea6/'},
             {text: '资源', link: '/pages/eee83a9211a70f9d/'},
             {text: 'Vue资源', link: '/pages/12df8ace52d493f6/'},
+            {text: 'Java面试真题汇总', link: '/pages/fddac8/'},
         ],
     },
     {
