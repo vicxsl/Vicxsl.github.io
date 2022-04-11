@@ -22,10 +22,9 @@ module.exports = {
   // categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
 
   bodyBgImg: [
-    'https://gitee.com/vicxsl/img/raw/master/img/1633585714403/showimage-1430315375-847097-9993d8b741cbbfa2aa772fb96e17a1a7.jpg',
-    'https://gitee.com/vicxsl/img/raw/master/img/1633585702503/showimage-1430315457-847097-2d4fc61bbcd80b3f2db0bdfce5f95b24.jpg',
-    'https://gitee.com/vicxsl/img/raw/master/img/1633586336454/showimage-1430315371-847097-fcf6ac5baeaac41f988e8b198f2e56ef.jpg',
-    'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175846.jpeg'
+    'https://s2.loli.net/2022/04/11/Bvuwex475WUb8aM.jpg',
+    'https://s2.loli.net/2022/04/11/B3H4tNdEC67QhLa.png',
+    'https://s2.loli.net/2022/04/11/oxLh8yTfSAGDzBb.png'
   ], // body背景大图，默认无。 单张图片 String || 多张图片 Array, 多张图片时每隔15秒换一张。
   bodyBgImgOpacity: 0.5, // body背景图透明度，选值 0 ~ 1.0, 默认0.5
 
