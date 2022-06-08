@@ -27,10 +27,6 @@ module.exports = [
                         link: '/note/typescript-axios/',
                     },
                     {
-                        text: '《Git》学习笔记',
-                        link: '/note/git/',
-                    },
-                    {
                         text: 'TypeScript笔记',
                         link: '/pages/51afd6/',
                     },
@@ -46,11 +42,15 @@ module.exports = [
         text: '后台',
         link: '/back/',
         items: [
+            {text: '微服务', link: '/pages/4e4caa/'},
+            // {text: 'Java', link: '/pages/'},
             {text: 'Database', link: '/pages/3ef014/'},
-            {text: 'Python', link: '/pages/3ef014/'},
+            {text: 'Python', link: '/pages/f22439/'},
             {
                 text: '学习笔记', items: [
-                    {text: '《一个人工智能的诞生》笔记', link: '/note/《一个人工智能的诞生》笔记/'}]
+                    {text: 'Java面试宝典', link: '/note/interview/'},
+                    {text: '《一个人工智能的诞生》笔记', link: '/note/ai/'}
+                ]
             }
         ],
     },
@@ -60,9 +60,11 @@ module.exports = [
         items: [
             {text: '技术文档', link: '/pages/9a7ee40fc232253e/'},
             {text: 'GitHub技巧', link: '/pages/4c778760be26d8b3/'},
-            {text: 'Nodejs', link: '/pages/117708e0af7f0bd9/'},
             {text: '博客搭建', link: '/pages/41f87d890d0a02af/'},
-        ],
+            {text: '学习笔记', items: [
+                    {text: '《Git》学习笔记', link: '/note/git/'}
+                ]}
+            ],
     },
     {
         text: '更多',
@@ -75,6 +77,15 @@ module.exports = [
             {text: '友情链接', link: '/friends/'},
         ],
     },
+    {
+        text: '脑图',
+        link: '/mind/',
+        items: [
+            {text: '大数据', link: '/mind/800e44/'},
+            {text: '微服务', link: '/mind/3cc0a2/'},
+            {text: 'Java面试', link: '/mind/7af745/'},
+        ],
+    },
     {text: '关于', link: '/about/'},
     {
         text: '收藏',
@@ -83,6 +94,7 @@ module.exports = [
             {text: '网站', link: '/pages/beb6c0bd8a66cea6/'},
             {text: '资源', link: '/pages/eee83a9211a70f9d/'},
             {text: 'Vue资源', link: '/pages/12df8ace52d493f6/'},
+            {text: 'Java面试真题汇总', link: '/pages/fddac8/'},
         ],
     },
     {

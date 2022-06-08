@@ -356,7 +356,7 @@ export default {
         margin-top 3rem
         img
           max-width 100%
-          max-height 240px
+          max-height 200px
           display block
           margin 2rem auto 1.5rem
         h1
